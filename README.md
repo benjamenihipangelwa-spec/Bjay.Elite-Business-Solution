@@ -1,2 +1,2 @@
 # Bjay.Elite-Business-Solution
-My software development static website 
+Software development static website 
